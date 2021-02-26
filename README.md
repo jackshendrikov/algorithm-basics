@@ -12,14 +12,14 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 <details>
   <summary>Algorithm diagram (first method)</summary>
 <p align="center">
-    <img src="img/algorithm1_1.png" alt="Algorithm diagram 1">
+    <img src="img/algorithm1_1.jpg" alt="Algorithm diagram 1">
 </p>
 </details>
 
 <details>
   <summary>Algorithm diagram (second method)</summary>
 <p align="center">
-    <img src="img/algorithm1_2.png" alt="Algorithm diagram 2">
+    <img src="img/algorithm1_2.jpg" alt="Algorithm diagram 2">
 </p>
 </details>
 
@@ -42,14 +42,14 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 <details>
   <summary>Algorithm diagram (nested loop method)</summary>
 <p align="center">
-    <img src="img/algorithm2_1.png" alt="Algorithm diagram 1">
+    <img src="img/algorithm2_1.jpg" alt="Algorithm diagram 1">
 </p>
 </details>
 
 <details>
   <summary>Algorithm diagram (dynamic programming method)</summary>
 <p align="center">
-    <img src="img/algorithm2_2.png" alt="Algorithm diagram 2">
+    <img src="img/algorithm2_2.jpg" alt="Algorithm diagram 2">
 </p>
 </details>
 
