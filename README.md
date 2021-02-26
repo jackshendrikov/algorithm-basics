@@ -6,20 +6,20 @@
 A real number `x` is given. Determine the value of the given piecewise continuous function `y(x)`, if it exists, or display a message about the non-existence of the function for the given `x`.
 
 <p align="center">
-    <img src=".img/task1.png" alt="Task Lab1">
+    <img src="img/task1.png" alt="Task Lab1">
 </p>
 
 <details>
   <summary>Algorithm diagram (first method)</summary>
 <p align="center">
-    <img src=".img/algoruthm1_1.png" alt="Algorithm diagram 1">
+    <img src="img/algoruthm1_1.png" alt="Algorithm diagram 1">
 </p>
 </details>
 
 <details>
   <summary>Algorithm diagram (second method)</summary>
 <p align="center">
-    <img src=".img/algoruthm1_2.png" alt="Algorithm diagram 2">
+    <img src="img/algoruthm1_2.png" alt="Algorithm diagram 2">
 </p>
 </details>
 
@@ -36,20 +36,20 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 5. Output the resulting data in a format with seven characters after the dot.
 
 <p align="center">
-    <img src=".img/task2.png" alt="Task Lab2">
+    <img src="img/task2.png" alt="Task Lab2">
 </p>
 
 <details>
   <summary>Algorithm diagram (nested loop method)</summary>
 <p align="center">
-    <img src=".img/algoruthm2_1.png" alt="Algorithm diagram 1">
+    <img src="img/algoruthm2_1.png" alt="Algorithm diagram 1">
 </p>
 </details>
 
 <details>
   <summary>Algorithm diagram (dynamic programming method)</summary>
 <p align="center">
-    <img src=".img/algoruthm2_2.png" alt="Algorithm diagram 2">
+    <img src="img/algoruthm2_2.png" alt="Algorithm diagram 2">
 </p>
 </details>
 
@@ -65,7 +65,7 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 6. The value of the initial array `Y[n]`, the intermediate array `Z[n]` and the resulting value `R` to display in a format with three characters after the dot.
 
 <p align="center">
-    <img src=".img/task3.png" alt="Task Lab3">
+    <img src="img/task3.png" alt="Task Lab3">
 </p>
 
 
@@ -73,7 +73,7 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 <b>Task:</b> Implement drawing of a given algorithm in the console:
 
 <p align="center">
-    <img src=".img/task4.png" alt="Task Lab4">
+    <img src="img/task4.png" alt="Task Lab4">
 </p>
 
 <h3 align="center">Lab 5</h3> 
