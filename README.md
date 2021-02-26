@@ -81,6 +81,8 @@ A real number `x` is given. Determine the value of the given piecewise continuou
 
 The matrix of int numbers `A[m,n]` is given. Determine the presence among all elements of the matrix of any of the numbers in the range [0,5] and its location (coordinates) by the method of binary search, if the elements of each column are separately arranged in descending order.
 
+<b>Implementation:</b> 
+
 The file `lab5_1.c` contains the code developed on requirements to the task. Here, a standard one-dimensional array binary search was applied to each row of our matrix. But this method is not very effective.
 
 However, if we consider a binary search for a matrix and not for a one-dimensional array, then for this example the binary search should be performed in a different form, and not as suggested in the condition.
